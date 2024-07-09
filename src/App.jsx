@@ -1,11 +1,16 @@
 import { } from 'react'
-import './App.css'
+
+// Componentes
+import Footer from './components/Footer'
+
+// CSS
+
 
 function App() {
   
   return (
     <>
-      
+      <Footer />
     </>
   )
 }
