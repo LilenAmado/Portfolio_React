@@ -1,3 +1,2 @@
 # Portfolio
-
-# Tecnología: React.
+Tecnología: React.
