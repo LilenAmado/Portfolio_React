@@ -13,10 +13,10 @@ export default function Footer(){
             
             <span>
                 Creado por&nbsp;
-                <a href="index.html">Lilén Amado</a> | 
+                <a href="index.html">Lilén Amado</a> |&nbsp; 
                 <span className="fa fa-copyright"></span> 
                 Todos los derechos reservados - 
-                <span id="year"> {currentYear} </span>.
+                <span id="year"> {currentYear} </span>
             </span>
 
             <br /><br />
