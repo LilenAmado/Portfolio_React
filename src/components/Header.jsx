@@ -4,7 +4,7 @@ export default function Header(){
         
         <input type="checkbox" id="res-menu" />
 
-        <label for="res-menu">
+        <label htmlFor="res-menu">
             <i className="fa fa-bars" id="sign-one"></i>
             <i className="fa fa-times" id="sign-two"></i>
         </label>

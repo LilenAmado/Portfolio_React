@@ -107,7 +107,11 @@ export const db_tecnologia = [
     {
         id: 22,
         image: 'audio.png',
-        tecnologia: 'Reaper, ProTools,',
-        tecnologia_2: '  Audacity, SoundForge'
-    }    
+        tecnologia: 'Reaper, ProTools'
+    },   
+    {
+        id: 23,
+        image: 'audio.png',
+        tecnologia: 'Audacity, SoundForge'
+    }   
 ]

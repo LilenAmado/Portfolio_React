@@ -900,7 +900,10 @@ footer span a:hover{
     margin-top: 20px;
 }
 
-.secc-10-mt20>img{width: 25px;}
+.secc-10-mt20 > img{
+    width: 25px;
+    margin-right: 10px;
+}
 
 .span_sonido{
     margin-left: 30px;
