@@ -109,6 +109,5 @@ export const db_tecnologia = [
         image: 'audio.png',
         tecnologia: 'Reaper, ProTools,',
         tecnologia_2: '  Audacity, SoundForge'
-    },
-    
+    }    
 ]

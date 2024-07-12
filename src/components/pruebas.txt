@@ -1,0 +1,141 @@
+
+{/* <div>
+
+                        <div class="secc-10-mt20">
+                            <img src="img/html.svg" alt="">
+                            <span>HTML5</span>
+                        </div>
+
+                        <div class="secc-10-mt20"> 
+                            <img src="img/css.svg" alt="">
+                            <span>CSS3</span>
+                        </div>
+
+                        <div class="secc-10-mt20"> 
+                            <img src="img/sass.png" alt="">
+                            <span>SASS</span>
+                        </div>
+
+                        <div class="secc-10-mt20">
+                            <img src="img/bootstrap.png" alt="">
+                            <span>Bootstrap</span>
+                        </div>
+
+                        <div class="secc-10-mt20">
+                            <img src="img/js.svg" alt="">
+                            <span>JavaScript</span>
+                        </div>
+
+                        <div class="secc-10-mt20">
+                            <img src="img/react.svg" alt="">
+                            <span>React</span>
+                        </div>
+
+                        <div class="secc-10-mt20">
+                            <img src="img/wordpress.png" alt="">
+                            <span>Wordpress</span>
+                        </div>
+
+                        <div class="secc-10-mt20">
+                            <img src="img/mysql.svg" alt="">
+                            <span>MySQL</span>
+                        </div>
+
+                        <div class="secc-10-mt20">
+                            <img src="img/git.svg" alt="">
+                            <span>GIT</span>
+                        </div>
+
+                    </div> */}
+
+{/* <div>
+
+                        <div class="secc-10-mt20">
+                            <img src="img/pbi.png" alt="">
+                            <span>Power BI</span>
+                        </div>
+
+                        <div class="secc-10-mt20"> 
+                            <img src="img/tableau.png" alt="">
+                            <span>Tableau</span>
+                        </div>
+
+                        <div class="secc-10-mt20">
+                            <img src="img/office.png" alt="">
+                            <span>Paquete Office</span>
+                        </div>
+
+                        <div class="secc-10-mt20">
+                            <img src="img/sqlserver.png" alt="">
+                            <span>SQL Server</span>
+                        </div>
+
+                        <div class="secc-10-mt20">
+                            <img src="img/siss.png" alt="">
+                            <span>SISS</span>
+                        </div>
+
+                        <div class="secc-10-mt20">
+                            <img src="img/azure.png" alt="">
+                            <span>Conocimientos en Azure</span>
+                        </div>
+
+                        <div class="secc-10-mt20">
+                            <img src="img/powerautomate.png" alt="">
+                            <span>Power Automate</span>
+                        </div>
+
+                        <div class="secc-10-mt20">
+                            <img src="img/python.png" alt="">
+                            <span>Conocimiento en Python</span>
+                        </div>
+
+                        <div class="secc-10-mt20">
+                            <img src="img/scrum.svg" alt="">
+                            <span>Metodología Scrum</span>
+                        </div>
+
+                    </div> 
+*/}
+
+{/* 
+<div>
+
+                        <div class="secc-10-mt20">
+                            <img src="img/illustrator.png" alt="">
+                            <span>Adobe Illustrator</span>
+                        </div>
+
+                        <div class="secc-10-mt20"> 
+                            <img src="img/premiere.png" alt="">
+                            <span>Adobe Premiere Pro</span>
+                        </div>
+
+                        <div class="secc-10-mt20">
+                            <img src="img/radio.png" alt="">
+                            <span>Zara Radio - Dinesat</span>
+                        </div>
+
+                        <div class="secc-10-mt20">
+                            <img src="img/audio.png" alt="">
+                            <span>Reaper, ProTools, </span> <br>
+                            <span  class="span_sonido">  Audacity, SoundForge</span>
+                        </div>
+
+                        <!-- <div class="secc-10-mt20">
+                            <img src="img/react.svg" alt="">
+                            <span>React</span>
+                        </div>
+
+                        <div class="secc-10-mt20">
+                            <img src="img/wordpress.png" alt="">
+                            <span>Wordpress</span>
+                        </div>
+
+                        <div class="secc-10-mt20">
+                            <img src="img/git.svg" alt="">
+                            <span>GIT</span>
+                        </div> -->
+
+                    </div> 
+*/}
