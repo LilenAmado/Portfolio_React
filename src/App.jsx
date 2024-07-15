@@ -1,6 +1,3 @@
-//import { useState, useEffect } from 'react'
-// import { db_tecnologia } from "./data/db_tecnologia"
-
 // Componentes
 import Header from './components/Header'
 import Presentacion from './components/Presentacion'
@@ -9,7 +6,6 @@ import Gustos from './components/Gustos'
 import Carreras from './components/Carreras'
 import Contacto from './components/Contacto'
 import Footer from './components/Footer'
-// import Nav from './components/Nav'
 
 function App() {
   

@@ -13,13 +13,13 @@ export default function Header(){
 
         <ul>
             <li>
-                <a href="index.html">Home</a>
+                <a href="#">Home</a>
             </li>
             <li>
                 <a href="#skills">Skills</a>
             </li>
             <li>
-                <a href="portfolio.html">Portfolio</a>
+                <a href="#">Portfolio</a>
             </li>
             <li>
                 <a href="#contacto">Contacto</a>
