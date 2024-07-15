@@ -7,7 +7,7 @@ export default function Carreras(){
         const [carrera, setCarrera] = useState([])
 
     // useEffect:
-        console.log(carrera)
+        //console.log(carrera)
         useEffect(() => {
             setCarrera(db_carrera)
         }, [])

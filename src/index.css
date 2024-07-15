@@ -578,6 +578,13 @@ footer span a:hover{
     text-decoration: underline;
 }
 
+h2{
+    text-align: center; text-transform: uppercase;
+}
+form > input[type="email"] {
+    margin-left: 0.3rem;
+}
+
 /* MEDIA QUERIES */ 
 
 
@@ -961,13 +968,31 @@ footer span a:hover{
     } */
 }
 
+@media (max-width: 590px){
+    form > input[type="email"] {
+        margin-left: 0.3rem;
+    }
+}
 
+@media (max-width: 529px){
+    form > input[type="email"] {
+        margin-left: 0rem;
+    }
+}
+
+@media (min-width: 917px){
+    .secc-10 {
+        margin-top: 36rem;
+    }
+}
 
 /* Verificar luego */
 
 /* footer{
     margin-top: 630px;
 } */
-h2{
-    text-align: center; text-transform: uppercase;
-}
+
+/* .grid-contacto2 > i{
+    display:block
+} */
+

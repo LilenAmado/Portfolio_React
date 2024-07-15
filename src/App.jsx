@@ -7,6 +7,7 @@ import Presentacion from './components/Presentacion'
 import Skills from './components/Skills'
 import Gustos from './components/Gustos'
 import Carreras from './components/Carreras'
+import Contacto from './components/Contacto'
 import Footer from './components/Footer'
 // import Nav from './components/Nav'
 
@@ -19,6 +20,7 @@ function App() {
       <Skills />
       <Gustos />
       <Carreras />
+      <Contacto />
       <Footer />
     </>
   )
